@@ -174,10 +174,3 @@ The **Healthcare Patient Flow Dashboard** provides insights into:
 This project is licensed under the **MIT License**.  
 Feel free to use and adapt for learning or production.
 
----
-
-**Author**: *Jaya Chandra Kadiveti* 
-
-**LinkedIn**: [username](https://www.linkedin.com/in/jayachandrakadiveti/) 
-
-**Contact**: [datawithjay1@gmail.com](mailto:datawithjay1@gmail.com)
